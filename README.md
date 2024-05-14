@@ -1,5 +1,5 @@
 
-<div align="center"> <img src="https://k21academy.com/wp-content/uploads/2022/04/Napa-Data-Engineering-Image-1024x367.jpg"> </div>
+<div align="center"> <img src="https://hgs.cx/wp-content/uploads/2023/07/blog-banner-benefits-of-data-engineering.webp"> </div>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Eric+Nguyen!;" />
