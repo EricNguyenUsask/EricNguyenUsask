@@ -11,7 +11,7 @@
 
 <div align="center">
 
- 🌍 I'm currently in Canada 
+ 🌍 I'm living in Canada 
  
  🔭 I’m currently grinding on **Leetcode**
 
